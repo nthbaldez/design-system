@@ -15,6 +15,7 @@
     "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
+    "phosphor-react": "^1.4.1",
     "@ignite-ui/ts-config": "*",
     "@storybook/theming": "^7.6.7",
     "polished": "^4.2.2",
