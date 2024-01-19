@@ -1,5 +1,11 @@
 # @nth-uidesign/tokens
 
+## 5.0.0
+
+### Major Changes
+
+- Add color test to CI/CD NPM
+
 ## 4.0.0
 
 ### Major Changes
