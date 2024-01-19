@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@nth-uidesign/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@nth-uidesign/eslint-config": "*",
+    "@nth-uidesign/react": "*",
+    "@nth-uidesign/tokens": "*",
+    "@nth-uidesign/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.9",
     "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/theming": "^7.6.7",
