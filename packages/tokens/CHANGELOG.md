@@ -1,5 +1,11 @@
 # @nth-uidesign/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- Colors CI/CD test
+
 ## 3.0.0
 
 ### Major Changes
